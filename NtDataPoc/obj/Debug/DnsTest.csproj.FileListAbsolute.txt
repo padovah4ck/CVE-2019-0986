@@ -1,0 +1,15 @@
+C:\temp2\temp\PSBypassCLM\DnsTest\bin\Debug\DnsTest.exe.config
+C:\temp2\temp\PSBypassCLM\DnsTest\bin\Debug\DnsTest.exe
+C:\temp2\temp\PSBypassCLM\DnsTest\bin\Debug\DnsTest.pdb
+C:\temp2\temp\PSBypassCLM\DnsTest\obj\Debug\DnsTest.csprojResolveAssemblyReference.cache
+C:\temp2\temp\PSBypassCLM\DnsTest\obj\Debug\DnsTest.exe
+C:\temp2\temp\PSBypassCLM\DnsTest\obj\Debug\DnsTest.pdb
+C:\temp2\temp\PSBypassCLM\DnsTest\bin\Debug\mscorlib.dll
+C:\temp2\temp\PSBypassCLM\DnsTest\bin\Debug\mscorlib.pdb
+D:\temp2\PSBypassCLM\DnsTest\bin\Debug\DnsTest.exe.config
+D:\temp2\PSBypassCLM\DnsTest\bin\Debug\DnsTest.exe
+D:\temp2\PSBypassCLM\DnsTest\bin\Debug\DnsTest.pdb
+D:\temp2\PSBypassCLM\DnsTest\obj\Debug\DnsTest.csprojAssemblyReference.cache
+D:\temp2\PSBypassCLM\DnsTest\obj\Debug\DnsTest.csproj.CoreCompileInputs.cache
+D:\temp2\PSBypassCLM\DnsTest\obj\Debug\DnsTest.exe
+D:\temp2\PSBypassCLM\DnsTest\obj\Debug\DnsTest.pdb

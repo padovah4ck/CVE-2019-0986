@@ -1,0 +1,7 @@
+D:\temp2\PSBypassCLM\DnsTest\bin\x64\Debug\DnsTest.exe.config
+D:\temp2\PSBypassCLM\DnsTest\bin\x64\Debug\DnsTest.exe
+D:\temp2\PSBypassCLM\DnsTest\bin\x64\Debug\DnsTest.pdb
+D:\temp2\PSBypassCLM\DnsTest\obj\x64\Debug\DnsTest.csprojAssemblyReference.cache
+D:\temp2\PSBypassCLM\DnsTest\obj\x64\Debug\DnsTest.csproj.CoreCompileInputs.cache
+D:\temp2\PSBypassCLM\DnsTest\obj\x64\Debug\DnsTest.exe
+D:\temp2\PSBypassCLM\DnsTest\obj\x64\Debug\DnsTest.pdb

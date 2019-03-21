@@ -1,0 +1,6 @@
+D:\temp2\PSBypassCLM\NtDataPoc\obj\x64\Debug\NtDataPoc.csproj.CoreCompileInputs.cache
+D:\temp2\PSBypassCLM\NtDataPoc\bin\x64\Debug\NtDataPoc.exe.config
+D:\temp2\PSBypassCLM\NtDataPoc\bin\x64\Debug\NtDataPoc.exe
+D:\temp2\PSBypassCLM\NtDataPoc\bin\x64\Debug\NtDataPoc.pdb
+D:\temp2\PSBypassCLM\NtDataPoc\obj\x64\Debug\NtDataPoc.exe
+D:\temp2\PSBypassCLM\NtDataPoc\obj\x64\Debug\NtDataPoc.pdb
